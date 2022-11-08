@@ -1,0 +1,15 @@
+/Users/ilyahayooy23/Projects/pr2/pr2/bin/Debug/net6.0/pr2
+/Users/ilyahayooy23/Projects/pr2/pr2/bin/Debug/net6.0/pr2.deps.json
+/Users/ilyahayooy23/Projects/pr2/pr2/bin/Debug/net6.0/pr2.runtimeconfig.json
+/Users/ilyahayooy23/Projects/pr2/pr2/bin/Debug/net6.0/pr2.dll
+/Users/ilyahayooy23/Projects/pr2/pr2/bin/Debug/net6.0/pr2.pdb
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.csproj.AssemblyReference.cache
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.AssemblyInfoInputs.cache
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.AssemblyInfo.cs
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.csproj.CoreCompileInputs.cache
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.dll
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/refint/pr2.dll
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.pdb
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/pr2.genruntimeconfig.cache
+/Users/ilyahayooy23/Projects/pr2/pr2/obj/Debug/net6.0/ref/pr2.dll
